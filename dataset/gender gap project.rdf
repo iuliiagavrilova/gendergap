@@ -1,0 +1,1176 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:stat="https://iuliiagavrilova.github.io/stat">
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/AT">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>53.00062892355982</stat:womeninacademy>
+  <stat:genderpaygap>20.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BE">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>55.9176889847019</stat:womeninacademy>
+  <stat:genderpaygap>5.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BG">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>53.830422784255994</stat:womeninacademy>
+  <stat:genderpaygap>13.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CH">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>49.763050724063895</stat:womeninacademy>
+  <stat:genderpaygap>18.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CY">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>52.09828090186218</stat:womeninacademy>
+  <stat:genderpaygap>10.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DE">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>50.010358954294055</stat:womeninacademy>
+  <stat:genderpaygap>20.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DK">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>56.83388863871802</stat:womeninacademy>
+  <stat:genderpaygap>14.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/EE">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>58.707260633026934</stat:womeninacademy>
+  <stat:genderpaygap>21.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/EL">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>48.67003492296856</stat:womeninacademy>
+  <stat:genderpaygap>10.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/ES">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>53.00287944915924</stat:womeninacademy>
+  <stat:genderpaygap>11.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FI">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>53.085313051973124</stat:womeninacademy>
+  <stat:genderpaygap>16.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HR">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>57.027759520873175</stat:womeninacademy>
+  <stat:genderpaygap>11.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HU">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>53.90286281243426</stat:womeninacademy>
+  <stat:genderpaygap>14.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IS">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>63.56917640467999</stat:womeninacademy>
+  <stat:genderpaygap>13.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IT">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>55.19662839845844</stat:womeninacademy>
+  <stat:genderpaygap>5.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LT">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>56.44684248821189</stat:womeninacademy>
+  <stat:genderpaygap>14.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LU">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>51.937807827198945</stat:womeninacademy>
+  <stat:genderpaygap>1.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LV">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>58.1381411218549</stat:womeninacademy>
+  <stat:genderpaygap>19.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/MT">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>56.675504952039304</stat:womeninacademy>
+  <stat:genderpaygap>13.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NL">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>51.77982507307165</stat:womeninacademy>
+  <stat:genderpaygap>14.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NO">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>56.07155830663984</stat:womeninacademy>
+  <stat:genderpaygap>13.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PL">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>59.56302294444896</stat:womeninacademy>
+  <stat:genderpaygap>8.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PT">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>53.016033362826356</stat:womeninacademy>
+  <stat:genderpaygap>8.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/RO">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>54.33553510064763</stat:womeninacademy>
+  <stat:genderpaygap>2.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/RS">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>56.524535558971756</stat:womeninacademy>
+  <stat:genderpaygap>9.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SE">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>59.79471956793873</stat:womeninacademy>
+  <stat:genderpaygap>12.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SI">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>56.927521545739324</stat:womeninacademy>
+  <stat:genderpaygap>9.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SK">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>59.223732499898986</stat:womeninacademy>
+  <stat:genderpaygap>19.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/UK">
+  <stat:year>2018 </stat:year>
+  <stat:womeninacademy>56.83022632369668</stat:womeninacademy>
+  <stat:genderpaygap>19.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/AT">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>52.886949720631726</stat:womeninacademy>
+  <stat:genderpaygap>20.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BE">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>55.87832218193736</stat:womeninacademy>
+  <stat:genderpaygap>5.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BG">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>53.83457940243234</stat:womeninacademy>
+  <stat:genderpaygap>14.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CY">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>52.88505055560584</stat:womeninacademy>
+  <stat:genderpaygap>11.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DE">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>49.67852217011605</stat:womeninacademy>
+  <stat:genderpaygap>20.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DK">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>56.547386952998714</stat:womeninacademy>
+  <stat:genderpaygap>14.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/EE">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>58.821864792315736</stat:womeninacademy>
+  <stat:genderpaygap>24.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/ES">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>52.784473280657515</stat:womeninacademy>
+  <stat:genderpaygap>13.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FI">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>53.159259218184964</stat:womeninacademy>
+  <stat:genderpaygap>17.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FR">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>53.946234109877224</stat:womeninacademy>
+  <stat:genderpaygap>16.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HR">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>56.72897215953746</stat:womeninacademy>
+  <stat:genderpaygap>12.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IS">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>63.82764816610575</stat:womeninacademy>
+  <stat:genderpaygap>15.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LT">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>56.583288619733906</stat:womeninacademy>
+  <stat:genderpaygap>15.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LU">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>50.81194867682438</stat:womeninacademy>
+  <stat:genderpaygap>2.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LV">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>57.97996367805911</stat:womeninacademy>
+  <stat:genderpaygap>19.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/MT">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>56.45237837522793</stat:womeninacademy>
+  <stat:genderpaygap>13.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NL">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>51.95125889009914</stat:womeninacademy>
+  <stat:genderpaygap>15.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NO">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>58.390530436265976</stat:womeninacademy>
+  <stat:genderpaygap>13.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PL">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>59.26815102347109</stat:womeninacademy>
+  <stat:genderpaygap>7.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PT">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>52.83429473688014</stat:womeninacademy>
+  <stat:genderpaygap>10.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SE">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>59.24245919603207</stat:womeninacademy>
+  <stat:genderpaygap>12.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SI">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>55.18204220566248</stat:womeninacademy>
+  <stat:genderpaygap>8.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SK">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>59.451544888981445</stat:womeninacademy>
+  <stat:genderpaygap>20.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/UK">
+  <stat:year>2017 </stat:year>
+  <stat:womeninacademy>56.587039520832136</stat:womeninacademy>
+  <stat:genderpaygap>20.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/AT">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>53.051489422938545</stat:womeninacademy>
+  <stat:genderpaygap>20.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BE">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>56.088184518800055</stat:womeninacademy>
+  <stat:genderpaygap>6.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BG">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>53.94241680969941</stat:womeninacademy>
+  <stat:genderpaygap>14.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CY">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>54.04980120358914</stat:womeninacademy>
+  <stat:genderpaygap>12.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DE">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>49.40166183379343</stat:womeninacademy>
+  <stat:genderpaygap>21.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DK">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>56.494332447452386</stat:womeninacademy>
+  <stat:genderpaygap>15.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/EE">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>58.714423171133056</stat:womeninacademy>
+  <stat:genderpaygap>24.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/ES">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>52.785730318658096</stat:womeninacademy>
+  <stat:genderpaygap>14.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FI">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>53.29531051964512</stat:womeninacademy>
+  <stat:genderpaygap>17.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FR">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>53.74584882795482</stat:womeninacademy>
+  <stat:genderpaygap>15.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HR">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>57.5230491247285</stat:womeninacademy>
+  <stat:genderpaygap>11.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HU">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>54.40391677075224</stat:womeninacademy>
+  <stat:genderpaygap>14.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IS">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>64.01004209635697</stat:womeninacademy>
+  <stat:genderpaygap>15.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LT">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>56.922838196576805</stat:womeninacademy>
+  <stat:genderpaygap>14.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LU">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>51.11408029522173</stat:womeninacademy>
+  <stat:genderpaygap>3.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LV">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>59.206607745960504</stat:womeninacademy>
+  <stat:genderpaygap>19.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/MT">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>54.61740744560173</stat:womeninacademy>
+  <stat:genderpaygap>11.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NL">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>51.95941175140315</stat:womeninacademy>
+  <stat:genderpaygap>15.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NO">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>58.28495385647362</stat:womeninacademy>
+  <stat:genderpaygap>14.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PL">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>59.23200588596422</stat:womeninacademy>
+  <stat:genderpaygap>7.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PT">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>52.762499420701594</stat:womeninacademy>
+  <stat:genderpaygap>13.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SE">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>59.08415977285777</stat:womeninacademy>
+  <stat:genderpaygap>13.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SI">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>55.24779444295046</stat:womeninacademy>
+  <stat:genderpaygap>8.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SK">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>59.42674268764132</stat:womeninacademy>
+  <stat:genderpaygap>19.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/UK">
+  <stat:year>2016 </stat:year>
+  <stat:womeninacademy>56.361553343492965</stat:womeninacademy>
+  <stat:genderpaygap>20.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/AT">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>53.24306449483207</stat:womeninacademy>
+  <stat:genderpaygap>21.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BE">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>56.356875779788936</stat:womeninacademy>
+  <stat:genderpaygap>6.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BG">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>54.51771881375731</stat:womeninacademy>
+  <stat:genderpaygap>15.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CY">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>56.56240903486193</stat:womeninacademy>
+  <stat:genderpaygap>13.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DE">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>49.06366321258463</stat:womeninacademy>
+  <stat:genderpaygap>21.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DK">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>57.36048268036318</stat:womeninacademy>
+  <stat:genderpaygap>15.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/EE">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>58.86245098764519</stat:womeninacademy>
+  <stat:genderpaygap>26.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/ES">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>52.68847061400723</stat:womeninacademy>
+  <stat:genderpaygap>14.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FI">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>53.61757794923926</stat:womeninacademy>
+  <stat:genderpaygap>17.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FR">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>54.64231484987984</stat:womeninacademy>
+  <stat:genderpaygap>15.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HU">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>54.61789857411924</stat:womeninacademy>
+  <stat:genderpaygap>14.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IS">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>63.045465086142215</stat:womeninacademy>
+  <stat:genderpaygap>17.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LT">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>57.63721857329047</stat:womeninacademy>
+  <stat:genderpaygap>14.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LU">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>50.92046561714783</stat:womeninacademy>
+  <stat:genderpaygap>4.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LV">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>59.61527863089936</stat:womeninacademy>
+  <stat:genderpaygap>18.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/MT">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>55.81713056813975</stat:womeninacademy>
+  <stat:genderpaygap>10.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NL">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>52.00859415805169</stat:womeninacademy>
+  <stat:genderpaygap>16.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NO">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>57.994610227632556</stat:womeninacademy>
+  <stat:genderpaygap>16.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PL">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>59.15994398266562</stat:womeninacademy>
+  <stat:genderpaygap>7.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PT">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>53.1483480791908</stat:womeninacademy>
+  <stat:genderpaygap>16.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SE">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>58.81314800665069</stat:womeninacademy>
+  <stat:genderpaygap>14.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SI">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>55.930684918239194</stat:womeninacademy>
+  <stat:genderpaygap>8.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SK">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>59.77954324694247</stat:womeninacademy>
+  <stat:genderpaygap>19.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/UK">
+  <stat:year>2015 </stat:year>
+  <stat:womeninacademy>56.041944471469805</stat:womeninacademy>
+  <stat:genderpaygap>21.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/AT">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>53.445107143090134</stat:womeninacademy>
+  <stat:genderpaygap>22.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BE">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>54.32650006443788</stat:womeninacademy>
+  <stat:genderpaygap>6.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BG">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>54.18481061212008</stat:womeninacademy>
+  <stat:genderpaygap>14.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CH">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>49.65864503231051</stat:womeninacademy>
+  <stat:genderpaygap>17.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CY">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>57.26373054466798</stat:womeninacademy>
+  <stat:genderpaygap>14.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CZ">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>55.99509545182462</stat:womeninacademy>
+  <stat:genderpaygap>22.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DE">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>48.16687838892137</stat:womeninacademy>
+  <stat:genderpaygap>22.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DK">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>55.5582481002731</stat:womeninacademy>
+  <stat:genderpaygap>16.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/EE">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>57.992016578015026</stat:womeninacademy>
+  <stat:genderpaygap>28.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/EL">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>48.134446935071416</stat:womeninacademy>
+  <stat:genderpaygap>12.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/ES">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>52.04786332936159</stat:womeninacademy>
+  <stat:genderpaygap>14.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FI">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>53.66182353139723</stat:womeninacademy>
+  <stat:genderpaygap>18.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FR">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>53.319886204120856</stat:womeninacademy>
+  <stat:genderpaygap>15.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HR">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>59.401721626065665</stat:womeninacademy>
+  <stat:genderpaygap>8.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HU">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>54.68713074447589</stat:womeninacademy>
+  <stat:genderpaygap>15.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IE">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>48.730447962632795</stat:womeninacademy>
+  <stat:genderpaygap>13.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IS">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>61.20287794580156</stat:womeninacademy>
+  <stat:genderpaygap>16.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IT">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>56.42936455298124</stat:womeninacademy>
+  <stat:genderpaygap>6.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LT">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>56.98867801319458</stat:womeninacademy>
+  <stat:genderpaygap>13.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LU">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>50.572215596069746</stat:womeninacademy>
+  <stat:genderpaygap>5.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LV">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>57.59134630631393</stat:womeninacademy>
+  <stat:genderpaygap>17.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/MK">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>53.77396121261152</stat:womeninacademy>
+  <stat:genderpaygap>9.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/MT">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>53.60151170611408</stat:womeninacademy>
+  <stat:genderpaygap>10.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NL">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>51.26962066099793</stat:womeninacademy>
+  <stat:genderpaygap>16.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NO">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>56.43423719616324</stat:womeninacademy>
+  <stat:genderpaygap>14.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PL">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>58.5643742483819</stat:womeninacademy>
+  <stat:genderpaygap>7.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PT">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>52.41147747911437</stat:womeninacademy>
+  <stat:genderpaygap>14.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/RO">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>52.63934633715577</stat:womeninacademy>
+  <stat:genderpaygap>4.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/RS">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>54.933788653820805</stat:womeninacademy>
+  <stat:genderpaygap>8.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SE">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>57.84021465459364</stat:womeninacademy>
+  <stat:genderpaygap>13.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SI">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>57.76445980375697</stat:womeninacademy>
+  <stat:genderpaygap>7.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SK">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>58.469318884391754</stat:womeninacademy>
+  <stat:genderpaygap>19.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/TR">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>46.24379113095329</stat:womeninacademy>
+  <stat:genderpaygap>-1.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/UK">
+  <stat:year>2014 </stat:year>
+  <stat:womeninacademy>55.851710131350984</stat:womeninacademy>
+  <stat:genderpaygap>20.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/AT">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>53.52315739521547</stat:womeninacademy>
+  <stat:genderpaygap>22.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BE">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>54.11973859066573</stat:womeninacademy>
+  <stat:genderpaygap>7.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/BG">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>54.5097454869922</stat:womeninacademy>
+  <stat:genderpaygap>14.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CH">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>54.888634468483296</stat:womeninacademy>
+  <stat:genderpaygap>17.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CY">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>55.873932792996825</stat:womeninacademy>
+  <stat:genderpaygap>14.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/CZ">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>56.28366201976059</stat:womeninacademy>
+  <stat:genderpaygap>22.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DE">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>47.88277491760678</stat:womeninacademy>
+  <stat:genderpaygap>22.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/DK">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>55.01155214994443</stat:womeninacademy>
+  <stat:genderpaygap>16.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/EE">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>57.67508107634324</stat:womeninacademy>
+  <stat:genderpaygap>29.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/ES">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>52.27559230501706</stat:womeninacademy>
+  <stat:genderpaygap>17.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FI">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>53.70589774972419</stat:womeninacademy>
+  <stat:genderpaygap>18.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/FR">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>55.65887530779763</stat:womeninacademy>
+  <stat:genderpaygap>15.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HR">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>60.11116465929766</stat:womeninacademy>
+  <stat:genderpaygap>7.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/HU">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>54.86561987409332</stat:womeninacademy>
+  <stat:genderpaygap>18.4</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IE">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>48.683024278411125</stat:womeninacademy>
+  <stat:genderpaygap>12.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IS">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>60.93719058848944</stat:womeninacademy>
+  <stat:genderpaygap>19.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/IT">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>58.15510798687783</stat:womeninacademy>
+  <stat:genderpaygap>7.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LT">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>57.365957466831986</stat:womeninacademy>
+  <stat:genderpaygap>12.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LU">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>50.5700871898055</stat:womeninacademy>
+  <stat:genderpaygap>6.2</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/LV">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>57.198871694173015</stat:womeninacademy>
+  <stat:genderpaygap>16.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/MT">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>54.604783008789646</stat:womeninacademy>
+  <stat:genderpaygap>9.7</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NL">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>54.03078622427796</stat:womeninacademy>
+  <stat:genderpaygap>16.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/NO">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>58.856859171173525</stat:womeninacademy>
+  <stat:genderpaygap>15.5</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PL">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>62.173027416911694</stat:womeninacademy>
+  <stat:genderpaygap>7.1</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/PT">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>52.95232009569412</stat:womeninacademy>
+  <stat:genderpaygap>13.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/RO">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>52.807076131594386</stat:womeninacademy>
+  <stat:genderpaygap>4.9</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SE">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>58.04117561771041</stat:womeninacademy>
+  <stat:genderpaygap>14.6</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SI">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>55.63199817827057</stat:womeninacademy>
+  <stat:genderpaygap>6.3</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/SK">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>58.335230306174836</stat:womeninacademy>
+  <stat:genderpaygap>18.8</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/UK">
+  <stat:year>2013 </stat:year>
+  <stat:womeninacademy>58.08281929133301</stat:womeninacademy>
+  <stat:genderpaygap>21.0</stat:genderpaygap>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://iuliiagavrilova.github.io/countries/">
+  <stat:year></stat:year>
+  <stat:womeninacademy></stat:womeninacademy>
+  <stat:genderpaygap></stat:genderpaygap>
+</rdf:Description>
+
+</rdf:RDF>

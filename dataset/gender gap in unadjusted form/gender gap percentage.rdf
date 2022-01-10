@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/dc/terms/"
+    xmlns:j.1="http://www.w3.org/ns/dcat#">
+  <j.1:Distribution rdf:about="http://data.europa.eu/88u/distribution/9b60c1e0-cf3b-44c5-8540-7f76b2c673de">
+    <j.0:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+    <j.0:description xml:lang="en">Download dataset in TSV format</j.0:description>
+    <j.0:format>
+      <j.0:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+    </j.0:format>
+    <j.1:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sdg_05_20.tsv.gz"/>
+    <j.0:license>
+      <j.0:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    </j.0:license>
+    <j.0:title xml:lang="en">Default_Title</j.0:title>
+    <j.0:identifier>http://data.europa.eu/88u/distribution/ba6f2fcb-9ae2-46ad-8846-40026940cfda</j.0:identifier>
+    <j.0:title xml:lang="en">Gender pay gap in unadjusted form</j.0:title>
+    <j.0:title xml:lang="de">Geschlechtsspezifischer Lohnunterschied ohne Anpassungen</j.0:title>
+    <j.0:title xml:lang="fr">Écart des rémunérations entre hommes et femmes (non corrigé)</j.0:title>
+  </j.1:Distribution>
+</rdf:RDF>

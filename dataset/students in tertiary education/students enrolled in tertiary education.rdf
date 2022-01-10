@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/dc/terms/"
+    xmlns:j.1="http://www.w3.org/ns/dcat#">
+  <j.1:Distribution rdf:about="http://data.europa.eu/88u/distribution/c04faa9e-2809-4e35-b2f1-229e0b25b58f">
+    <j.1:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_enrt03.tsv.gz"/>
+    <j.0:title xml:lang="fr">Étudiants de l'enseignement supérieur par niveau d'étude, orientation du programme, sexe et domaine d'étude</j.0:title>
+    <j.0:format>
+      <j.0:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+    </j.0:format>
+    <j.0:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+    <j.0:title xml:lang="en">Students enrolled in tertiary education by education level, programme orientation, sex and field of education</j.0:title>
+    <j.0:description xml:lang="en">Download dataset in TSV format</j.0:description>
+    <j.0:title xml:lang="de">Studierende im Tertiärbereich nach Bildungsbereich, Ausrichtung des Bildungsprogramms, Geschlecht und Fachrichtung</j.0:title>
+    <j.0:identifier>http://data.europa.eu/88u/distribution/3921f9b1-5725-4b2f-ab02-bf36a855bad5</j.0:identifier>
+    <j.0:title xml:lang="en">Default_Title</j.0:title>
+    <j.0:license>
+      <j.0:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    </j.0:license>
+  </j.1:Distribution>
+</rdf:RDF>
