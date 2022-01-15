@@ -1,0 +1,70 @@
+.bold {
+  font-weight: 700;
+}
+
+table {
+  width: 100%;
+}
+
+table th {
+  padding: 12px 10px;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+body {
+  max-width: 90%;
+  margin: auto;
+}
+
+.flourish-embed {
+  max-width: 80%;
+  margin: auto;
+}
+
+.heading-container {
+  background-color: #f2f3f5;
+  border-radius: 5px;
+}
+
+.heading-container h2 {
+  padding: 10px 20px;
+}
+
+.heading-container h1 {
+  padding: 20px 0px 20px 0px;
+}
+
+.description-container {
+  margin: 5px 0px;
+  background-color: white;
+  border: 1px black;
+}
+
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+footer h2 {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+footer p {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+/*# sourceMappingURL=style.css.map */

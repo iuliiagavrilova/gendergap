@@ -1,0 +1,57 @@
+.bold {
+  font-weight: 700;
+}
+
+table {
+  width: 100%;
+  th {
+    padding: 12px 10px; 
+  }
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+body {
+  max-width: 90%;
+  margin: auto;
+}
+
+.flourish-embed {
+  max-width: 80%;
+  margin: auto;
+}
+
+.heading-container{
+  background-color: #f2f3f5;
+  border-radius: 5px;
+
+  & h2 {
+    padding: 10px 20px;
+  }
+
+  & h1 {
+    padding: 20px 0px 20px 0px;
+  }
+}
+
+.description-container{
+  margin: 5px 0px; 
+  background-color: white;
+  border: 1px black;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  & h2 {
+    flex: 1;
+  }
+
+  & p {
+    flex: 1;
+  }
+}
