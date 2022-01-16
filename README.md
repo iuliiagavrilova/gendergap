@@ -151,7 +151,7 @@ D1 and D2 are regularly updated and include information about recent years. In t
 
 
 ### 
-**4.2 Juridical and ethical analysis **
+**4.2 Juridical and ethical analysis**
 
 
 #### 
@@ -170,6 +170,12 @@ D3 is distributed by CC-BY 4.0.
 
 ### 
 **4.3 Technical analysis (formats, metadata, URIs, provenance)**
+
+In the D2 dataset, some of the values regarding the number of students in tertiary education in some countries were missing. For example, data about France is missing for 2018, and there is no data about the Czech Republic for 2015. In order to proceed, the missing values were converted to null values. Then, a joint of two tables were made. It wasn’t an inner join which means only the items that had a non-zero value were added to the table. Items that didn’t have a value for a certain year are missing from the dataset D3. This incompleteness makes it difficult to track patterns over time for some countries and doesn’t show the whole picture.
+
+D2 RDF file doesn’t reflect information about the change in the ISCED standard after 2011. It uses abbreviations to describe different items relating to the level and area of education but the levels of education have been changed to a new system in 2011.
+
+Different concepts used for "country of origin" in learning mobility data also constitute a technical problem. Country of origin in the learning mobility data should in principle refer to the "country of prior secondary education". However, until the reference year, 2016 countries might use instead country of prior residence or citizenship or other. From the reference year 2016 onwards all countries should report data according to "country of prior education". 
 
 
 ### 
